@@ -6,5 +6,10 @@ public class Demo {
 		
 		System.out.println("This is demo");
 	}
+	
+	private void demo() {
+		// TODO Auto-generated method stub
+		System.out.println("thisis demo - gowthami");
+	}
 
 }
